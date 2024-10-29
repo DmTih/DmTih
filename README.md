@@ -3,7 +3,7 @@
 - 💼 Имею большой опыт работы маркетологом в e-commerce.
 
  ## Языки и технологии:
- Python, SQL, PostgreSQL, ClickHouse, Git, Airflow, Tableau, Jupyter Notebook, Redash, Статистика, Excel, Google Sheets, API.
+ Python, SQL, PostgreSQL, ClickHouse, Git, Airflow, Tableau, Jupyter Notebook, Redash, Статистика, Excel, Google Sheets, API, Google Analytics, Яндекс Метрика
 
  ## Мои проекты:
  1. Анализ покупок в интернет-магазине (Python, Pandas, Matplotlib, Seaborn) <a href="https://github.com/DmTih/e-commerce_project">GitHub</a>
