@@ -10,3 +10,4 @@
  2. Подсчет Retention игроков и оценка эффективности проведенного A/B-теста в игровом мобильном приложении <a href="https://github.com/DmTih/mobile_games_project">GitHub</a>
  3. Анализ эффективности рекламных кампаний (PostgreSQL, Redash) <a href="https://github.com/DmTih/advertising_campaign_efficiency">GitHub</a>
  4. Финансовые показатели интернет-магазина (PostgreSQL, Redash) <a href="https://github.com/DmTih/financial_indicators_online_store">GitHub</a>
+ 5. Анализ пользовательской активности и эффективности работы курьеров (PostgreSQL, Redash) <a href="https://github.com/DmTih/delivery_analytics_dashboard">GitHub</a>
