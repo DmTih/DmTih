@@ -11,3 +11,4 @@
  3. Анализ эффективности рекламных кампаний (PostgreSQL, Redash) <a href="https://github.com/DmTih/advertising_campaign_efficiency">GitHub</a>
  4. Финансовые показатели интернет-магазина (PostgreSQL, Redash) <a href="https://github.com/DmTih/financial_indicators_online_store">GitHub</a>
  5. Анализ пользовательской активности и эффективности работы курьеров (PostgreSQL, Redash) <a href="https://github.com/DmTih/delivery_analytics_dashboard">GitHub</a>
+ 6. Построение финансоваго дашборда в Tableau <a href="https://public.tableau.com/app/profile/dmitry.tihanovich/viz/KarpovDashboardPractice_17180966170500/Dashboard1">ссылка</a>
